@@ -1,0 +1,5 @@
+com/redhat/shopping/integration/whitebox/ShoppingCartTest.class
+com/redhat/shopping/integration/blackbox/ShoppingCartTest.class
+com/redhat/shopping/unit/ProductMother.class
+com/redhat/shopping/unit/cart/CartServiceTest.class
+com/redhat/shopping/unit/catalog/CatalogServiceTest.class

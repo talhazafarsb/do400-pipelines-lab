@@ -1,0 +1,5 @@
+/var/www/DO400-pipelines-lab/src/test/java/com/redhat/shopping/unit/ProductMother.java
+/var/www/DO400-pipelines-lab/src/test/java/com/redhat/shopping/unit/catalog/CatalogServiceTest.java
+/var/www/DO400-pipelines-lab/src/test/java/com/redhat/shopping/integration/blackbox/ShoppingCartTest.java
+/var/www/DO400-pipelines-lab/src/test/java/com/redhat/shopping/unit/cart/CartServiceTest.java
+/var/www/DO400-pipelines-lab/src/test/java/com/redhat/shopping/integration/whitebox/ShoppingCartTest.java
