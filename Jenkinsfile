@@ -23,7 +23,8 @@ pipeline {
                     }
                 }
 	    }
-	    stage('build'){
+        }
+        stage('build'){
 	    	script {
                     try {
                         sh './mvnw package -D skipTests'
@@ -33,7 +34,6 @@ pipeline {
                     }
                 }
 	    }	
-        }
     }
 }
 
